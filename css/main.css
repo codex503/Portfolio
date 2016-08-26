@@ -1,0 +1,80 @@
+.me{
+	padding-bottom: 30px;
+	padding-top:30px;
+	vertical-align: middle;
+}
+
+
+.my-name {
+	font-size: 50px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.my-title {
+	padding-top: 0px;
+	vertical-align: bottom;
+}
+.text-muted {
+	color: #BCBBBB;
+	font-weight: 100;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+
+.main-title {
+	color: white;
+	font-weight: 100;
+	font-family: 'Lato', sans-serif;
+}
+.bio {
+	background-color: #737373;
+	color: white;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.project-effect {
+	transition: box-shadow 1s;
+}
+
+
+
+a:hover {
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.contact {
+	background-color: #737373;
+	color: white;
+}
+
+.contact-links {
+	transition: box-shadow 1s;
+    color:white;
+}
+
+i {
+	color:white;
+	padding: 10px;
+}
+
+i:hover {
+	color: #b3b3b3;
+
+}
+
+footer {
+	padding-bottom: 15px;
+}
