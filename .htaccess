@@ -1,4 +1,4 @@
 
 <FilesMatch "\.(html|htm|css|js|jpg|png)$">
-Header set Cache-Control "max-age=600, must-revalidate"
+Header set Cache-Control "max-age=300, must-revalidate"
 </FilesMatch>
